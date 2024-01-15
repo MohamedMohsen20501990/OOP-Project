@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohamedMohsen20501990
-- 👀 I’m interested in ...AI
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine Learning and AI
+- 🌱 I’m currently working on Machine Learning
+- 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me ...
 
 <!---
